@@ -1,0 +1,17 @@
+{
+  "name": "reacttest",
+  "version": "0.0.0",
+  "description": "Testing a Node React project",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Chris Cannon",
+  "license": "ISC"
+}
